@@ -2,7 +2,7 @@
 
 This repo contains the Matlab Toolbox for computing the Fast Marching method in 2D and 3D by Gabriel Peyre. The orginal version of the toolbox can be downloaded here: 
 
-[Toolbox Fast Marchin Matlab](https://es.mathworks.com/matlabcentral/fileexchange/6110-toolbox-fast-marching)
+[Toolbox Fast Marching Matlab](https://es.mathworks.com/matlabcentral/fileexchange/6110-toolbox-fast-marching)
 
 The version in this repo has some modifications to correct errors that appear when compiling. 
 
