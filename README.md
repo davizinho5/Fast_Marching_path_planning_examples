@@ -22,7 +22,7 @@ Run the next script to test the toolbox:
     test_fast_marching_2d
 
 ## path planning examples
-Besides, the repo contains 2 scripts with an example to execute the fast marching, and the fast marching square methods as a path planner, reading the map from an image. The methods are explained in the paper included in the [repo](https://jvgomez.github.io/files/pubs/fm2star.pdf):
+Besides, the repo contains 2 scripts with an example to execute the fast marching, and the fast marching square methods as a path planner, reading the map from an image. The methods are explained in the paper included in the [repo](https://github.com/davizinho5/Fast_Marching_path_planning_examples/blob/main/fmm_path_planning.pdf):
 
 - FM_tuto
 - FM2_tuto
